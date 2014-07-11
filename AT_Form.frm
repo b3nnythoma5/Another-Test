@@ -24,5 +24,5 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
-    MsgBox "yahoo"
+    PrintMessage "yahoo"
 End Sub
